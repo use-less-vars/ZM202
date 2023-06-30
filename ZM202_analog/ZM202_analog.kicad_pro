@@ -330,6 +330,10 @@
     [
       "623fe2f9-a117-4b04-94d6-8c06947e3053",
       "Oscillator"
+    ],
+    [
+      "a9b89a8e-6c2e-4f11-9fd4-3a829ee04b26",
+      "AnalogCore"
     ]
   ],
   "text_variables": {}
