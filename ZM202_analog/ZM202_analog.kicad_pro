@@ -334,6 +334,10 @@
     [
       "a9b89a8e-6c2e-4f11-9fd4-3a829ee04b26",
       "AnalogCore"
+    ],
+    [
+      "42bdac79-14b2-41d3-9681-42fcfeb810b2",
+      "PLL"
     ]
   ],
   "text_variables": {}
